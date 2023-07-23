@@ -1,0 +1,8 @@
+openai
+requests
+numpy
+beautifulsoup4
+scikit-learn
+streamlit
+pickle-mixin
+pickle
