@@ -1,5 +1,5 @@
 #######################################
-###   Multipurpose Crawler: Web Ingestion & Q&A AI     #
+###   Multipurpose Crawler: Web Query & Q&A AI     #
 ###   Version: 1.0.0                    
 #######################################
 
