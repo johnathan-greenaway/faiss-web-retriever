@@ -1,10 +1,9 @@
 #######################################
-###   Multipurpose Crawler: Web Query & Q&A AI     #
-###   Version: 1.0.0                    
-#######################################
+# Multipurpose Crawler: Web Query & Q&A AI     #
+#### Version: 0.0.0                 
 
 ### #####################################
-### ############ Dependencies #############
+## Dependencies #############
 ### #####################################
 ### 
 ### The dependencies can be installed by running:
