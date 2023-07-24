@@ -5,4 +5,4 @@ beautifulsoup4
 scikit-learn
 streamlit
 pickle-mixin
-pickle
+bs4
