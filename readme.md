@@ -1,5 +1,4 @@
-#######################################
-# Multipurpose Crawler: Web Query & Q&A AI     #
+## Multipurpose Crawler: Web Query & Q&A AI     #
 #### Version: 0.0.0                 
 
 ### #####################################
