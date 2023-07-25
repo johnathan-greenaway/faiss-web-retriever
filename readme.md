@@ -7,14 +7,6 @@
 ### 
 ### The dependencies can be installed by running:
 ### `pip install -r requirements.txt` in the root directory of the project.
-### Below are the necessary packages:
-### 
-### requests==2.26.0
-### openai==0.27.0
-### numpy==1.21.2
-### beautifulsoup4==4.9.3
-### scikit-learn==0.24.2
-### streamlit==0.88.0
 ### 
 ### #####################################
 ### ############ Setup & Deploy ###########
